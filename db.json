@@ -1,4 +1,16 @@
 {
+  "user" : [ {
+    "agencia" : "0001",
+    "conta" : "00001",
+    "digito" : "7",
+    "segmento" : "Uniclass",
+    "nome" : "Antonio Jose Uniclass",
+    "datanasc" : "13021951",
+    "sexo" : "M",
+    "investidor" : "S",
+    "digital" : "N",
+    "profissao" : "astronauta"
+    }],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
